@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TopFlavonAndroid</string>
+    <string name="base_url">http://185.51.67.30</string>
 </resources>
